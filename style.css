@@ -16,16 +16,18 @@ p {
   font-size: 16px; /* Adjust font size if needed */
 }
 body {
+
 font-family: "Figtree", sans-serif;
 background-color: var(--yellow);
 color: white;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 100vh;
+
+
 }
 
-.card {
+.card { 
 background-color: white;
 border-radius: 12px;
 /*  padding: 40px 20px; */
@@ -97,7 +99,7 @@ font-size: 14px;
   padding-top: 12px;
   align-items: center;
   margin-top: 10px;
-
+margin-bottom: 10px;
 }
 .author{
   font-size: 16px;
