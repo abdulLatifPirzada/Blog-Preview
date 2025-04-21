@@ -21,12 +21,14 @@ font-family: "Figtree", sans-serif;
 background-color: var(--yellow);
 color: white;
 display: flex;
-flex-direction: column;
+/* flex-direction: column; */
 justify-content: center;
 align-items: center;
 
 
 }
+
+
 
 .card { 
   /* display: flex;
@@ -36,11 +38,12 @@ border-radius: 12px;
 /*  padding: 40px 20px; */
 /*  padding: 40; */
 
-width: 100%;
+/* width: 100%; */
 /* height: 80%; */
 max-width: 350px;
 box-shadow: 5px 5px black;
 border: 2px solid black;
+margin: auto;
 
 }
 
